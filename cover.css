@@ -1,0 +1,54 @@
+*,html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: burlywood;
+}
+
+div {
+  background-color: burlywood;
+}
+
+.container-navbar {
+  background-color: lemonchiffon;
+  width: 100%;
+}
+
+.ul-navbar {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.li-navbar {
+  border: 3px solid lemonchiffon;
+  background-color: rgb(183, 160, 128);
+  list-style-type: none;
+  padding: 20px;
+  margin: 5px;
+}
+
+.container-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-conteny {
+  background-color: rgb(183, 160, 128);
+}
+
+.h1-footer {
+  background-color: lemonchiffon;
+  display: flex;
+  justify-content: center;
+}
+
+.h2-footer {
+  background-color: lemonchiffon;
+  display: flex;
+  justify-content: center;
+}
